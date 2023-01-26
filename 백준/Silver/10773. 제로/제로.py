@@ -1,4 +1,5 @@
-from collections import deque
+import sys
+input=sys.stdin.readline
 tmp = []
 for n in range(int(input())):
     Number = int(input())
