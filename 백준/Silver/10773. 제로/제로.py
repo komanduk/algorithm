@@ -1,3 +1,4 @@
+from collections import deque
 tmp = []
 for n in range(int(input())):
     Number = int(input())
